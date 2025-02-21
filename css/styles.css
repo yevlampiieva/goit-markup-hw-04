@@ -319,14 +319,9 @@ img {
 }
 
 .team-card-social-icon {
-  fill: #fff;
-  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.team-card-social-icon:hover,
-.team-card-social-icon:focus {
   fill: #f4f4fd;
 }
+
 /* #endregion Our team */
 
 /* #region Portfolio */
@@ -449,12 +444,6 @@ img {
 }
 
 .footer-social-media-icon {
-  fill: #fff;
-  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.footer-social-media-icon:hover,
-.footer-social-media-icon:focus {
   fill: #f4f4fd;
 }
 /* #endregion Footer */
